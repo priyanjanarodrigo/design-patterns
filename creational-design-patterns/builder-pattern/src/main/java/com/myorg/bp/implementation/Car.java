@@ -7,7 +7,7 @@ public class Car {
     private final String dropOffLocation;
 
     /**
-     * Step 3 - (Refer Step 1 and 2 before considering this).
+     * Step 3 - (Please refer Step 1 and 2 before considering this).
      * This will set Builder static class property values to relevant Car object properties
      */
     public Car(Builder builder) {
