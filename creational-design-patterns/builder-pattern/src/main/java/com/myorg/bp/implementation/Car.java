@@ -8,7 +8,7 @@ public class Car {
 
     /**
      * Step 3 - (Please refer Step 1 and 2 before considering this).
-     * This will set Builder static class property values to relevant Car object properties
+     * This will set Builder static class property values to relevant Car object properties.
      */
     public Car(Builder builder) {
         this.insurance = builder.insurance;
