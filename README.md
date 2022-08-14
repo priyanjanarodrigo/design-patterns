@@ -1,3 +1,3 @@
 # design-patternss
 
-This project contains design patterns (development is still in progress). **FYI**
+This project contains design patterns (development is still in progress) . **FYI**
