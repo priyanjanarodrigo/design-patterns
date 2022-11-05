@@ -70,16 +70,16 @@ connect. They are not interoperable. So the intention is to make them interopera
 (intention is to not adding additional behaviour)
 
 <div align="center" style="margin-bottom:50px;">
-  <img style="background-color:white;" alt="clients-facade-and-subsystems" height="400"
+  <img style="background-color:white;" alt="adapter - real world example" height="400"
     src="src/main/resources/images/adapter-pattern-real-world-example.png" 
-    title="clients-facade-and-subsystems" width="750"/>
+    title="adapter - real world example" width="750"/>
   <p>Source for above figure: (Mishra N, 2020, https://itsnishantmishra.medium.com/adapter-design-pattern-c-1cc8327f45d5) </p>
 </div>
 
 <div align="center">
-  <img alt="clients-facade-and-subsystems" height="400"
+  <img alt="adapter pattern basic uml diagram" height="400"
     src="src/main/resources/images/adapter-pattern-uml-diagram.png" 
-    title="clients-facade-and-subsystems" width="750"/>
+    title="adapter pattern basic uml diagram" width="750"/>
 </div>
 
 - The `Client` (the user of the code) has something of the type `ITarget`.
