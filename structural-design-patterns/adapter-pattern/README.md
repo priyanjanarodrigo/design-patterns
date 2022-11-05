@@ -72,7 +72,8 @@ connect. They are not interoperable. So the intention is to make them interopera
 <div align="center" style="margin-bottom:50px;">
   <img style="background-color:white;" alt="clients-facade-and-subsystems" height="400"
     src="src/main/resources/images/adapter-pattern-real-world-example.png" 
-    title="clients-facade-and-subsystems" width="600"/>
+    title="clients-facade-and-subsystems" width="750"/>
+  <p>Source for above figure: (Mishra N, 2020, https://itsnishantmishra.medium.com/adapter-design-pattern-c-1cc8327f45d5) </p>
 </div>
 
 <div align="center">
