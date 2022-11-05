@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
   <modules>
     <module>facade-pattern</module>
+    <module>adapter-pattern</module>
   </modules>
   <parent>
         <artifactId>design-patterns</artifactId>
