@@ -123,7 +123,7 @@ then the `specificRequest()` of `Adaptee` will be invoked.
 ## 2. References:
 
 1. https://www.youtube.com/watch?v=2PKQtcJjYvc&t=307s (Video: `Adapter Pattern – Design Patterns 
-(ep 6)`, Author: `Christopher Okhravi`)
+(ep 8)`, Author: `Christopher Okhravi`)
 2. https://www.geeksforgeeks.org/adapter-pattern/
 3. https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
 4. https://itsnishantmishra.medium.com/adapter-design-pattern-c-1cc8327f45d5

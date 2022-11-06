@@ -6,6 +6,7 @@
   <modules>
     <module>facade-pattern</module>
     <module>adapter-pattern</module>
+    <module>proxy-pattern</module>
   </modules>
   <parent>
         <artifactId>design-patterns</artifactId>
