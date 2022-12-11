@@ -7,7 +7,8 @@
 		<module>creational-design-patterns</module>
 		<module>structural-design-patterns</module>
 		<module>behavioural-design-patterns</module>
-    </modules>
+    <module>structural-design-patterns/decorator-pattern</module>
+  </modules>
 
 	<groupId>com.myorg</groupId>
 	<artifactId>design-patterns</artifactId>

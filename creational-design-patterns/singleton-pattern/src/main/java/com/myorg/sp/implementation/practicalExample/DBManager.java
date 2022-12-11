@@ -1,4 +1,4 @@
-package com.myorg.sp.implementation;
+package com.myorg.sp.implementation.practicalExample;
 
 /**
  * Singleton Design Pattern:
