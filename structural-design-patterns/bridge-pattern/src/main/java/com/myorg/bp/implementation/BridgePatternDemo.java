@@ -34,7 +34,7 @@ public class BridgePatternDemo {
      * ---------------------
      *    set2 = { ArtistResource, BookResource }
      *
-     * OrderedPairs:
+     * Ordered pairs:
      * --------------
      *  { LongView, ArtistResource }
      *  { LongView, BookResource }
