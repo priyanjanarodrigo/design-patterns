@@ -1,8 +1,6 @@
 # Singleton Pattern
 
-## Some Important Points
-
-## 1. Singleton Pattern Introduction
+## 1. Singleton Pattern - Theory
 
 ```
 The Singleton pattern ensures that a class has only one instance and provides a global point of

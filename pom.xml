@@ -8,6 +8,7 @@
 		<module>structural-design-patterns</module>
 		<module>behavioural-design-patterns</module>
     <module>structural-design-patterns/decorator-pattern</module>
+    <module>structural-design-patterns/bridge-pattern</module>
   </modules>
 
 	<groupId>com.myorg</groupId>

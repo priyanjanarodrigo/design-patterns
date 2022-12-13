@@ -33,7 +33,7 @@ declarating)
 
 
 
-## 1. Adapter Pattern Introduction
+## 1. Adapter Pattern - Theory
 
 ```
 The Adapter Pattern converts the inteface of a class into another interface that the client expects.

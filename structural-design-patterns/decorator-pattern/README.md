@@ -1,6 +1,6 @@
 # Decorator Pattern
 
-## 1. Decorator Pattern Introduction
+## 1. Decorator Pattern - Theory
 
 ```
 The decorator pattern attaches additional responsibilities to an object dynamically.

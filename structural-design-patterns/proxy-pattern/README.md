@@ -1,6 +1,6 @@
 # Proxy Pattern
 
-## 1. Proxy Pattern Introduction
+## 1. Proxy Pattern - Theory
 
 ```
 The proxy pattern provides a surrogate or placeholder for another object in order to control access to it.

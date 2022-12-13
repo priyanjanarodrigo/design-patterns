@@ -1,6 +1,6 @@
 # Facade Pattern
 
-## 1. Facade Pattern Introduction
+## 1. Facade Pattern - Theory
 
 ```
 The facade pattern provides a unified interface to a set of interfaces in a sub system.
