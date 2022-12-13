@@ -122,7 +122,7 @@ package.
 
 
 <div align="left">
-    <img alt="bridge implementation diagram" height="750"
+    <img alt="bridge implementation diagram" height="650"
     src="src/main/resources/images/bridge-implementation-diagram.jpeg"
     title="bridge implementation diagram" width="1500"/>
 </div>
