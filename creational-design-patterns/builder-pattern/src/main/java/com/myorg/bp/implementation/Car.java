@@ -41,7 +41,7 @@ public class Car {
          *
          * Most of the time the method name may take the similar name of the property.
          *
-         * This type of a method may look like a constructor or may be like a setter, but it's not. it's just a method
+         * This type of method may look like a constructor or may be like a setter, but it's not. it's just a method
          * which sets the corresponding parameter and returns the current instance.
          */
         public Builder etc(Boolean etc) {
