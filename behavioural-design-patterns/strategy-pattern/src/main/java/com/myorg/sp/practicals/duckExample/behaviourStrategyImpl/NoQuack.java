@@ -1,6 +1,6 @@
-package com.myorg.sp.practicals.duck.behaviourStrategyImpl;
+package com.myorg.sp.practicals.duckExample.behaviourStrategyImpl;
 
-import com.myorg.sp.practicals.duck.behaviourStrategy.IQuackBehaviour;
+import com.myorg.sp.practicals.duckExample.behaviourStrategy.IQuackBehaviour;
 
 public class NoQuack implements IQuackBehaviour {
   @Override

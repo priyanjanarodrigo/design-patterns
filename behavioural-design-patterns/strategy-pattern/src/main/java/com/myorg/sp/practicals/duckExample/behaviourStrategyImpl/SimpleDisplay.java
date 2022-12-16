@@ -1,6 +1,6 @@
-package com.myorg.sp.practicals.duck.behaviourStrategyImpl;
+package com.myorg.sp.practicals.duckExample.behaviourStrategyImpl;
 
-import com.myorg.sp.practicals.duck.behaviourStrategy.IDisplayBehaviour;
+import com.myorg.sp.practicals.duckExample.behaviourStrategy.IDisplayBehaviour;
 
 public class SimpleDisplay implements IDisplayBehaviour {
   @Override

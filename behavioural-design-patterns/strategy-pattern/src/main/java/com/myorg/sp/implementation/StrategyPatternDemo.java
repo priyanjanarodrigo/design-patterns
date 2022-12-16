@@ -52,12 +52,12 @@ public class StrategyPatternDemo {
    */
   public static void main(String[] args) {
     Context additionContext = new Context(new AddingStrategy());
-    additionContext.executeStrategy(10, 20);
+    System.out.println(additionContext.executeStrategy(10, 20));
 
     Context substractionContext = new Context(new SubstractingStrategy());
-    substractionContext.executeStrategy(120, 60);
+    System.out.println(substractionContext.executeStrategy(120, 60));
 
     Context multiplicationContext = new Context(new MultiplyingStrategy());
-    multiplicationContext.executeStrategy(20, 10);
+    System.out.println(multiplicationContext.executeStrategy(20, 10));
   }
 }

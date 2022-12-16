@@ -9,7 +9,7 @@ public class Context {
     this.strategy = strategy;
   }
 
-  public void executeStrategy(int firstNumber, int secondNumber) {
-    System.out.println(this.strategy.doOperation(firstNumber, secondNumber));
+  public int executeStrategy(int firstNumber, int secondNumber) {
+   return this.strategy.doOperation(firstNumber, secondNumber);
   }
 }

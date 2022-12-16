@@ -1,8 +1,8 @@
-package com.myorg.sp.practicals.duck;
+package com.myorg.sp.practicals.duckExample;
 
-import com.myorg.sp.practicals.duck.behaviourStrategy.IDisplayBehaviour;
-import com.myorg.sp.practicals.duck.behaviourStrategy.IFlyBehaviour;
-import com.myorg.sp.practicals.duck.behaviourStrategy.IQuackBehaviour;
+import com.myorg.sp.practicals.duckExample.behaviourStrategy.IDisplayBehaviour;
+import com.myorg.sp.practicals.duckExample.behaviourStrategy.IFlyBehaviour;
+import com.myorg.sp.practicals.duckExample.behaviourStrategy.IQuackBehaviour;
 
 public class Duck {
   private IQuackBehaviour quackBehaviour;
@@ -17,7 +17,7 @@ public class Duck {
     this.flyBehaviour = flyBehaviour;
   }
 
-  public void executeBheviour() {
+  public void executeBehaviour() {
     quackBehaviour.quack();
     displayBehaviour.display();
     flyBehaviour.fly();

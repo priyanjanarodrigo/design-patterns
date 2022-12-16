@@ -13,7 +13,6 @@
         <module>builder-pattern</module>
         <module>singleton-pattern</module>
         <module>factory-method-pattern</module>
-        <module>prototype-pattern</module>
     </modules>
 
     <modelVersion>4.0.0</modelVersion>
