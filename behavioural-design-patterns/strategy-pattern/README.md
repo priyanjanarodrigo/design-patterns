@@ -34,7 +34,7 @@ interchangeable. Strategy lets the algorithm vary independently from the clients
 
 <div align="left" style="margin-bottom:20px;">
   <img alt="strategy pattern example diagram" height="600"
-    src="src/main/resources/images/strategy-pattern-example-diagram.jpeg" 
+    src="src/main/resources/images/strategy-pattern-diagram.jpeg" 
     title="strategy pattern example diagram" width="1000"/>
 </div>
 
