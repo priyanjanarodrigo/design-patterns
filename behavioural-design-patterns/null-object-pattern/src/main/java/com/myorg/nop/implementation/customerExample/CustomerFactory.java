@@ -1,4 +1,4 @@
-package com.myorg.nop.implementation;
+package com.myorg.nop.implementation.customerExample;
 
 public class CustomerFactory {
   private static final String[] names = {"Roman", "Rock", "cena", "ambrose", "seth", "brock"};

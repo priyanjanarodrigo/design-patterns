@@ -1,4 +1,4 @@
-package com.myorg.nop.implementation;
+package com.myorg.nop.implementation.customerExample;
 
 public abstract class AbstractCustomer {
   protected String name;
