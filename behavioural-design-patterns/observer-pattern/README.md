@@ -83,8 +83,6 @@ changes state, all of its dependencies are notified and updated automatically
   one `Observable` and many `Observers` for example. So when the `Observable` changes its state, all
   the `Observers` are notified.
 
- 
-
 ## 2. References
 
 1. https://www.youtube.com/watch?v=_BpmfnqjgzQ (Video: `Observer Pattern – Design Patterns
