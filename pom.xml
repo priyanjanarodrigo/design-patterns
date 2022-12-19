@@ -10,6 +10,7 @@
     <module>structural-design-patterns/decorator-pattern</module>
     <module>structural-design-patterns/bridge-pattern</module>
     <module>creational-design-patterns/abstract-factory-pattern</module>
+    <module>behavioural-design-patterns/observer-pattern</module>
   </modules>
 
 	<groupId>com.myorg</groupId>
