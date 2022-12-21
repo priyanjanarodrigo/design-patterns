@@ -11,6 +11,7 @@
     <module>structural-design-patterns/bridge-pattern</module>
     <module>creational-design-patterns/abstract-factory-pattern</module>
     <module>behavioural-design-patterns/observer-pattern</module>
+    <module>behavioural-design-patterns/iterator-pattern</module>
   </modules>
 
 	<groupId>com.myorg</groupId>
