@@ -10,9 +10,11 @@
     </parent>
 
     <modules>
+        <module>abstract-factory-pattern</module>
         <module>builder-pattern</module>
-        <module>singleton-pattern</module>
         <module>factory-method-pattern</module>
+        <module>prototype-pattern</module>
+        <module>singleton-pattern</module>
     </modules>
 
     <modelVersion>4.0.0</modelVersion>

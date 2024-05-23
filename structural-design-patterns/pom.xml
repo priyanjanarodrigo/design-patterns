@@ -4,8 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <packaging>pom</packaging>
   <modules>
-    <module>facade-pattern</module>
     <module>adapter-pattern</module>
+    <module>bridge-pattern</module>
+    <module>decorator-pattern</module>
+    <module>facade-pattern</module>
     <module>proxy-pattern</module>
   </modules>
   <parent>

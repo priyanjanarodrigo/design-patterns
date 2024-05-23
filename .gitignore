@@ -34,8 +34,3 @@ build/
 
 ### local log files
 logs/*
-epdcs.log.directory_IS_UNDEFINED/
-LOG_DIR_IS_UNDEFINED/
-wpng.log.directory_IS_UNDEFINED/
-.jpb/persistence-units.xml
-.jpb/jpb-settings.xml

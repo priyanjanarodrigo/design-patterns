@@ -22,8 +22,8 @@ object?
 
 - Creating and assembling the parts of a complex object directly within a class is inflexible. 
 It commits the class to create a particular representation of the complex object and makes it 
-impossible to change the representation later independently from (without having to change) 
-the class.
+impossible to change the representation later, independently from the class(without having to change) 
+.
 
 ### The Builder design pattern describes how to solve such problems:
 

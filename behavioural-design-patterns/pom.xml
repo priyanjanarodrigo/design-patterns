@@ -4,8 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <packaging>pom</packaging>
     <modules>
-        <module>strategy-pattern</module>
+        <module>iterator-pattern</module>
         <module>null-object-pattern</module>
+        <module>observer-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
     <parent>
         <artifactId>design-patterns</artifactId>

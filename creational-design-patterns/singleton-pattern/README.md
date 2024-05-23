@@ -43,7 +43,7 @@ it is possible to access the singleton instance.
 <div align="center">
   <img style="background-color:white;" alt="singleton pattern diagram" height="580"
     src="src/main/resources/images/singleton-pattern-diagram.png" 
-    title="ingleton pattern diagram" width="400"/>
+    title="Singleton pattern diagram" width="400"/>
   <p>Source for above figure: (tutorialspoint.com, 2022, https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm) </p>
 </div>
 
